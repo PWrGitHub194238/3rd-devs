@@ -1,0 +1,26 @@
+{
+  "name": "arxiv-task-solver",
+  "version": "1.0.0",
+  "description": "Program do przetwarzania artykułu i odpowiadania na pytania centrali",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.6.9",
+    "openai": "^4.0.0",
+    "turndown": "^7.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "@types/node-fetch": "^2.6.4",
+    "@types/turndown": "^5.0.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

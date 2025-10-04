@@ -1,0 +1,21 @@
+Here's the extracted information from the map fragment of the unknown city in Poland:
+
+### Street Names:
+1. **Kalinowa**
+   - **Location Description**: This street runs vertically, with several residential buildings along its length. It is located at the far left side of the map.
+  
+2. **Konstanty Idelfons Gałczyński**
+   - **Location Description**: Positioned parallel to Kalinowa, this street is situated in the upper middle section of the map, bordered by various structures.
+
+3. **Stroma**
+   - **Location Description**: This horizontal street cuts across, intersecting with Konstantego Idelfonsa Gałczyńskiego. It may feature local amenities or residential properties.
+
+4. **Władysława Reymonta**
+   - **Location Description**: This street crosses Stroma at a diagonal, possibly indicating a transition in the type of buildings or accessibility.
+
+### Icons:
+- **Bus Stop Icon**: 
+  - **Location Description**: Indicated near Kalinowa, likely serving residents and visitors commuting along this corridor.
+
+### Summary:
+The map showcases a layout featuring several intersecting streets, primarily residential, with a bus stop on Kalinowa that suggests transit availability for city dwellers.

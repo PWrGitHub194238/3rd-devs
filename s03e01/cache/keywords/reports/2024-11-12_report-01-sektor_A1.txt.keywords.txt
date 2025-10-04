@@ -1,0 +1,4 @@
+{
+  "summary": "W raporcie opisano incydent o godz. 03:26, gdzie wykryto ruch organiczny, który ostatecznie okazał się fałszywym alarmem związanym z lokalną zwierzyną leśną. Obszar został uznany za bezpieczny, a patrol wrócił na trasę.",
+  "keywords": "alarm, ruch organiczny, zwierzyna leśna, fałszywy alarm, analiza wizualna, bezpieczeństwo, patrol"
+}

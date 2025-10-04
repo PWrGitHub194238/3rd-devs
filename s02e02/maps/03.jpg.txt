@@ -1,0 +1,31 @@
+Here’s the analysis of the map fragment:
+
+### Street Names
+1. **Boczna**
+   - Description: Located running horizontally near the top of the map.
+   
+2. **Dworska**
+   - Description: A vertical street situated towards the left side of the map, intersecting with Szwedzka and Strońska.
+
+3. **Szwedzka**
+   - Description: Runs horizontally, located below Dworska.
+
+4. **Strońska**
+   - Description: A vertical street that intersects with Dworska and connects to the bottom edge of the map.
+
+5. **Twardowskiego**
+   - Description: A diagonal street extending from the right side of the map downward to the left.
+
+### Icons and Titles
+1. **Żabka**
+   - Description: A convenience store icon located on the left side, at the intersection with Dworska.
+
+2. **Lewiatan**
+   - Description: Another convenience store, positioned on Strońska, slightly above Dworska.
+
+3. **Lush Massage**
+   - Description: A wellness establishment marked along the Twardowskiego street, situated near the center of the map.
+
+### Additional Notes
+- There are no road numbers specified on the map.
+- The arrangement of streets and icons indicates a mix of local businesses and residential areas in an urban setting.

@@ -1,0 +1,4 @@
+{
+  "summary": "W raporcie opisano incydent z wykryciem ultradźwiękowego sygnału przez czujniki dźwięku, który pochodził z ukrytego nadajnika. Analiza odcisków palców doprowadziła do tożsamości osoby imieniem Barbara Zawadzka. Obszar został zabezpieczony, a patrol nie wykazał dalszych incydentów.",
+  "keywords": "czujniki dźwięku, ultradźwiękowy sygnał, nadajnik, Barbara Zawadzka, analiza odcisków palców, obszar zabezpieczony, patrol, incydenty"
+}

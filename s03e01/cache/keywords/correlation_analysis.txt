@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "reportFile": "2024-11-12_report-00-sektor_C4.txt",
+      "relatedFacts": ["f01.txt", "f04.txt"],
+      "rationale": "Wspólne słowa kluczowe dotyczące Sektora C oraz obecność Aleksandra Ragowskiego wskazują na związek z faktami o testowaniu i edukacji."
+    },
+    {
+      "reportFile": "2024-11-12_report-01-sektor_A1.txt",
+      "relatedFacts": ["f02.txt", "f09.txt"],
+      "rationale": "Sektor A oraz powiązania z bezpieczeństwem i kontrolą sugerują związek z montażem robotów oraz magazynem."
+    },
+    {
+      "reportFile": "2024-11-12_report-02-sektor_A3.txt",
+      "relatedFacts": ["f02.txt"],
+      "rationale": "Monitoring i aktywność w Sektorze A łączą się z faktami dotyczącymi technologii i robotyki."
+    },
+    {
+      "reportFile": "2024-11-12_report-03-sektor_A3.txt",
+      "relatedFacts": ["f02.txt"],
+      "rationale": "Podobnie jak wcześniej, słowa kluczowe dotyczące monitorowania wskazują na powiązania z faktami o Sektorze A."
+    },
+    {
+      "reportFile": "2024-11-12_report-04-sektor_B2.txt",
+      "relatedFacts": ["f06.txt", "f07.txt"],
+      "rationale": "Patrol i brak anomalii mogą być powiązane z faktami dotyczącymi technologii i potencjalnych eksperymentów."
+    },
+    {
+      "reportFile": "2024-11-12_report-05-sektor_C1.txt",
+      "relatedFacts": ["f01.txt", "f08.txt"],
+      "rationale": "Słowa kluczowe dotyczące monitorowania i aktywności w Sektorze C wskazują na powiązania z testowaniem broni i ruchem oporu."
+    },
+    {
+      "reportFile": "2024-11-12_report-06-sektor_C2.txt",
+      "relatedFacts": ["f01.txt"],
+      "rationale": "Sektor C oraz patrole mogą odnosić się do wcześniej wspomnianych faktów dotyczących systemów bezpieczeństwa."
+    },
+    {
+      "reportFile": "2024-11-12_report-07-sektor_C4.txt",
+      "relatedFacts": ["f05.txt"],
+      "rationale": "Obecność Barbary Zawadzkiej i słowa kluczowe dotyczące analizy mogą być powiązane z tematyką IT i technologii."
+    },
+    {
+      "reportFile": "2024-11-12_report-08-sektor_A1.txt",
+      "relatedFacts": ["f02.txt", "f09.txt"],
+      "rationale": "Monitoring i wytyczne wskazują na związek z kontrolą jakości i magazynowaniem w Sektorze A."
+    },
+    {
+      "reportFile": "2024-11-12_report-09-sektor_C2.txt",
+      "relatedFacts": ["f06.txt", "f07.txt"],
+      "rationale": "Patrol na peryferiach i sygnały mogą wskazywać na eksperymenty i anomalie opisane w faktach dotyczących Azazela i eksperymentów naukowych."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Patrol nocny o godzinie 02:15 nie wykazał żadnej aktywności organicznej ani mechanicznej. Prowadzony jest monitoring peryferii obiektu i kontynuacja zadań.",
+  "keywords": "patrol nocny, monitoring, aktywność organiczna, aktywność mechaniczna, peryferie obiektu, kontynuacja zadań"
+}

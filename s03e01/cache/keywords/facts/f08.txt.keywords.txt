@@ -1,0 +1,4 @@
+{
+  "summary": "Adam Gospodarczyk jest kluczową postacią w ruchu oporu, znaną z umiejętności programowania i rekrutacji agentów walczących z reżimem sztucznej inteligencji. Jego trudna do wykrycia działalność, a także znajomość z tajemniczym Azazelem, pokazuje jego wpływ na technologię i szkolenie nowych rekrutów. Gospodarczyk przekazuje wiedzę o bypassowaniu zabezpieczeń AI, tworząc zorganizowaną grupę agentów, którzy stają się skutecznymi przeciwnikami reżimu.",
+  "keywords": "Adam Gospodarczyk, ruch oporu, programowanie, rekrutacja agentów, sztuczna inteligencja, Azazel, bypassowanie zabezpieczeń, szkolenie, wpływy, technologia"
+}

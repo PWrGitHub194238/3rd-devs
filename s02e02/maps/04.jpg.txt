@@ -1,0 +1,21 @@
+Here's the extracted information from the map fragment:
+
+### Street Names
+- **Cmentarna**
+  - Description: Located towards the southern side of the map, this street seems to run parallel to the cemetery and is presumably residential or commercial in nature.
+  
+- **Parzysowa**
+  - Description: Situated towards the northeastern part of the map, this street appears to intersect with Cmentarna, likely providing access to surrounding neighborhoods.
+
+### Icons
+- **Cmentarz ewangelicko-augsburski**
+  - Description: This cemetery is located in the center of the map, indicating it might be a prominent landmark in the area, possibly surrounded by roads and other local facilities.
+  
+- **Bus Stops**
+  - Description: There are bus icons near Road 534, indicating public transportation access along this major route, enhancing connectivity to other areas.
+
+### Road Numbers
+- **534**
+  - Description: This road cuts through the western edge of the map, serving as a significant route for travel in and out of the city, with nearby bus stops facilitating public transport.
+
+This layout suggests the area may have a mix of residential and community-focused spaces, with essential transport links nearby.

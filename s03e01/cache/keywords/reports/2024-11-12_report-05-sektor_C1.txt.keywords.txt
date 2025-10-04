@@ -1,0 +1,4 @@
+{
+  "summary": "Raport z monitorowania aktywności w sektorze C1 wskazuje na brak wykrytej działalności organicznej lub technologicznej. Sensory są w pełnej gotowości, a sygnały pozostają stabilne podczas patrolu.",
+  "keywords": "monitorowanie, sektor C1, wykrycie, aktywność organiczna, aktywność technologiczna, sensor dźwiękowy, detektory ruchu, patrole, sygnały"
+}

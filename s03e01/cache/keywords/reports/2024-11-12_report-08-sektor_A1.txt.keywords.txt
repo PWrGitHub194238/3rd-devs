@@ -1,0 +1,4 @@
+{
+  "summary": "W raporcie opisano monitoring obszaru patrolowego o godzinie 01:00, gdzie nie odnotowano ruchu ani aktywności, a obserwacje były kontynuowane zgodnie z wytycznymi.",
+  "keywords": "monitoring, obszar patrolowy, brak ruchu, cisza, czujniki, aktywność, obserwacja, wytyczne"
+}

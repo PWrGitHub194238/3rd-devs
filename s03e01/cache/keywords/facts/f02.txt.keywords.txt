@@ -1,0 +1,4 @@
+{
+  "summary": "Sektor A fabryki jest miejscem montażu zaawansowanych robotów przemysłowych oraz jednostek wojskowych. Obszar ten podzielony jest na strefy, z których każda służy innemu etapowi montażu, z rygorystyczną kontrolą jakości. Procesy są nadzorowane przez sztuczną inteligencję, a technicy pracują z użyciem egzoszkieletów, zapewniając bezpieczeństwo i efektywność.",
+  "keywords": "Sektor A, montaż robotów, jednostki wojskowe, kontrola jakości, sztuczna inteligencja, egzoszkielety, system zabezpieczeń, monitoring, technologia, przemysł"
+}

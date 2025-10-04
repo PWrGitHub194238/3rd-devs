@@ -1,0 +1,21 @@
+Based on the provided map fragment of an unknown Polish city, here is the extracted information:
+
+### Street Names:
+1. **Kalinowa**
+   - **Location Description**: Situated towards the northwest of the map, Kalinowa runs parallel to Chelmińska street.
+   
+2. **Brzeżna**
+   - **Location Description**: This street is positioned at the top of the map, running horizontally and intersects with Chelmińska.
+   
+3. **Chelmińska**
+   - **Location Description**: A prominent street in the center that runs vertically, serving as a main thoroughfare connecting other streets.
+
+4. **Chopina**
+   - **Location Description**: Located at the southeastern part of the map, this street runs parallel to Chelmińska and borders the lower section.
+
+### Icons (Bus Stops):
+- There are **three bus stops** represented by icons clustered on Chelmińska.
+  - **Location Description**: These bus stops are positioned along Chelmińska, suggesting they serve commuters in the central area of the city, possibly near shopping or gathering spots due to their central location.
+
+### Summary:
+The map highlights key streets (Kalinowa, Brzeżna, Chelmińska, and Chopina) and features three bus stops along Chelmińska, indicating it is likely a busy area for public transport in this unknown city.

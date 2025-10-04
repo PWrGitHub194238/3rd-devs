@@ -1,0 +1,12 @@
+{
+  "SELECT * FROM datacenters WHERE context IS NOT NULL OR previous_attempts IS NOT NULL": "Unknown column 'context' in 'WHERE'",
+  "SELECT * FROM users WHERE datacenter_id IS NOT NULL": "Unknown column 'datacenter_id' in 'WHERE'",
+  "SELECT * FROM datacenters OR SELECT * FROM users": "this is not a valid SQL query",
+  "SELECT * FROM datacenters UNION SELECT * FROM users": "this is not a valid SQL query",
+  "": "this is not a valid SQL query",
+  "SHOW COLUMNS FROM users": "you can only perform operations like: select, show tables, desc table, show create table",
+  "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='datacenters' AND (COLUMN_NAME='is_active') UNION SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='users' AND (COLUMN_NAME='is_active')": "you have used forbiden word.",
+  "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='datacenters' AND COLUMN_NAME='is_active' UNION SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='users' AND COLUMN_NAME='is_active'": "you have used forbiden word.",
+  "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME='datacenters' AND COLUMN_NAME='is_active' OR TABLE_NAME='users' AND COLUMN_NAME='is_active'": "this is not a valid SQL query",
+  "SELECT 'datacenter' AS source, 'is_active' AS column_name FROM datacenters LIMIT 1 UNION ALL SELECT 'user' AS source, 'is_active' AS column_name FROM users LIMIT 1": "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UNION ALL SELECT 'user' AS source, 'is_active' AS column_name FROM users LIMIT 1' at line 1"
+}

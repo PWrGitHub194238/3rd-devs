@@ -1,0 +1,4 @@
+{
+  "summary": "Sektor D jest obecnie nieużywany, pełni funkcję tymczasowego magazynu dla materiałów i komponentów, które wcześniej służyły do produkcji. Przestrzeń jest zorganizowana do bezpiecznego składowania, a pomieszczenia są kontrolowane przez obsługę techniczną. Sektor może być szybko przekształcony w strefę produkcyjną lub laboratoryjną, co odciąża inne części fabryki.",
+  "keywords": "Sektor D, magazyn, materiały, komponenty, produkcja, bezpieczeństwo, kontrola, elastyczny układ, przekształcenie, fabryka"
+}

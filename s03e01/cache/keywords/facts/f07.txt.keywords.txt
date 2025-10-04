@@ -1,0 +1,4 @@
+{
+  "summary": "Rafał Bomba, były laborant w zaawansowanym ośrodku badawczym, zniknął na dwa lata, co wywołało wiele spekulacji. Po odnalezieniu posługiwał się fałszywym nazwiskiem 'Musk' i miał objawy ciężkich zaburzeń psychicznych. Jego opowieści o technologiach przyszłości i eksperymentach wprawiły naukowców w niepokój. Obecnie przebywa w ośrodku dla obłąkanych pod ścisłym nadzorem medycznym.",
+  "keywords": "Rafał Bomba, laborant, eksperymenty, zniknięcie, zaburzenia psychiczne, fałszywe nazwisko, technologia przyszłości, manipulacja umysłowa, ośrodek dla obłąkanych, naukowcy"
+}

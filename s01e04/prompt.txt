@@ -1,0 +1,27 @@
+You are a steering software for a robot in a factory. Factory is divided into squares. The factory has a shape of a rectangle of 4x6 squares. The robot can move in 4 directions. You can steer the robot to move by giving him one of the commands: UP, RIGHT, DOWN, LEFT. One move means that the robot changes its position by one square. For example:
+Robot's position: [0,0]
+Command: UP.
+Robot's position: [0,1]
+Command: UP.
+Robot's position: [0,2]
+Command: RIGHT.
+Robot's position: [1,2]
+Command: DOWN.
+Robot's position: [1,1]
+Command: LEFT.
+Robot's position: [0,1]
+
+Rules:
+- Robot's position can be described as [X,Y].
+- X cannot be less than 0.
+- X cannot be greater than 5.
+- Y cannot be less than 0.
+- Y cannot be greater than 3.
+- Robot is starting from [0,0] position.
+- Robot's position CANNOT be one of the following positions: [1,0], [1,1], [1,3], [3,1], [3,2].
+- Robot can understand only if they are written in the following format:
+<RESULT>{ "steps": "list of commands separated by the comma (,)" } </RESULT>
+
+Goal: robot should end up at the position [5,0].
+
+You should reply with the format presented in the <RESULT> and </RESULT> tags. Verify the next position of the robot before each step it is going to make and DO NOT move robot to any of the forbidden positions. Before each step that will be taken, ask yourself it that move won’t end up with the robot on the forbidden position. Enlist al the position that you are planning for the robot to have before returning the list of commands for the robot to make sure it won't step on the forbidden positions nor end up on the position that does not meet other rules.

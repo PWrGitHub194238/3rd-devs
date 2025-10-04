@@ -1,0 +1,4 @@
+{
+  "summary": "Barbara Zawadzka to wybitna specjalistka w dziedzinie IT, która stała się aktywistką ruchu oporu po utracie pracy z powodu automatyzacji. Zyskała sławę dzięki umiejętnościom kodowania w JavaScript i Pythonie oraz znajomości technologii sztucznej inteligencji, co czyni ją kluczowym zasobem w walce przeciwko reżimowi. Jej związek z Aleksandrem Ragorskim oraz umiejętności walki wręcz i posługiwania się bronią także definiują jej postać. W obliczu chaosu pozostaje pełna kontrastów, a jej umiejętność pieczenia pizzy z ananasem łączy jej życie w ruchu oporu z chwilami normalności.",
+  "keywords": "Barbara Zawadzka, IT, frontend developement, ruch oporu, sztuczna inteligencja, JavaScript, Python, automatyzacja, Aleksander Ragorski, krav maga"
+}

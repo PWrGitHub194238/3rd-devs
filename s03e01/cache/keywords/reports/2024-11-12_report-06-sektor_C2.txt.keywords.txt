@@ -1,0 +1,4 @@
+{
+  "summary": "Raport z sektora północno-zachodniego wskazuje na stabilny stan obszaru i brak wykrycia niepokojących zjawisk. Jednostka pozostaje w pełni operacyjna.",
+  "keywords": "sektor północno-zachodni, stabilny stan, skanery temperatury, brak wykrycia, jednostka operacyjna, patrol"
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "W nocy o godzinie 22:43 wykryto jednostkę organiczną blisko północnego skrzydła fabryki. Osobnik, Aleksander Ragowski, przeszedł skan biometryczny, który potwierdził jego tożsamość. Następnie jednostka została przekazana do działu kontroli, a patrol został wznowiony.",
+  "keywords": "jednostka organiczna, północne skrzydło, fabryka, Aleksander Ragowski, skan biometryczny, zgodność, dział kontroli, patrol"
+}

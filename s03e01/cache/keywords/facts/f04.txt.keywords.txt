@@ -1,0 +1,4 @@
+{
+  "summary": "Aleksander Ragowski był nauczycielem języka angielskiego, który stał się aktywnym krytykiem władzy związanej z automatyzacją edukacji. Po aresztowaniu udało mu się uciec i teraz się ukrywa, planując wykorzystać swoje umiejętności w programowaniu, aby sprzeciwić się rządowi robotów. Jego działania wzbudzają obawy w kręgach opozycyjnych.",
+  "keywords": "Aleksander Ragowski, nauczyciel angielskiego, automatyzacja, rząd robotów, krytyka, ukrywanie się, programowanie, Java, opozycja, zagrożenia edukacji"
+}

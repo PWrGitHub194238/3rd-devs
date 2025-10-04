@@ -1,0 +1,4 @@
+{
+  "summary": "Azazel jest tajemniczą postacią związaną z ruchem oporu i technologią, której przeszłość jest nieznana. Utrzymuje, że potrafi przemieszczać się w czasie i przestrzeni, a jego wiedza obejmuje zarówno aktualne, jak i przyszłe technologie. Ma relację z Zygfrydem, osobą o wpływach w ramach władzy robotów. Azazel jest trudny do schwytania przez swoje zdolności teleportacji i znikania.",
+  "keywords": "Azazel, technologia, ruch oporu, teleportacja, Zygfryd, władze robotów, eksperymenty, zdolności nadprzyrodzone, znikanie, przemysł"
+}

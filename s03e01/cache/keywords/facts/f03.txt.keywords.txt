@@ -1,0 +1,4 @@
+{
+  "summary": "Sektor B skupia się na pracach badawczo-rozwojowych dotyczących nowoczesnych ogniw bateryjnych, które poprawiają wydajność energetyczną w przemyśle i wojsku. Zespoły inżynierów testują prototypy o wysokiej gęstości energetycznej, koncentrując się na ich trwałości i odporności. Bezpieczeństwo eksperymentów jest kluczowe, a korzystanie z sztucznej inteligencji wspiera optymalizację procesów. Sektor ten rozwija także technologie szybkiego ładowania i regeneracji baterii, co jest ważne dla mobilności maszyn wojskowych.",
+  "keywords": "ogniwa bateryjne, badania i rozwój, energa, przemysł, wojsko, sztuczna inteligencja, bezpieczeństwo, szybkie ładowanie, prototypy, innowacje"
+}
